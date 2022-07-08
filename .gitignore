@@ -1,0 +1,14 @@
+target/
+
+.settings
+.project
+.classpath
+
+lightbend.sbt
+
+.idea
+*.iml
+
+.metals
+.bloop
+
