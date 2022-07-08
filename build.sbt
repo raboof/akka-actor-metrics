@@ -23,6 +23,5 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.1.0" % Test,
   Cinnamon.library.cinnamonAkka,
   Cinnamon.library.cinnamonAkkaTyped,
-  Cinnamon.library.cinnamonPrometheus,
-  Cinnamon.library.cinnamonPrometheusHttpServer
+  Cinnamon.library.cinnamonCHMetrics,
 )
